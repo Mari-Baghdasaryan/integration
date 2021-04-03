@@ -9,6 +9,7 @@
   "author": "mari",
   "license": "ISC",
   "devDependencies": {
+    "@4tw/cypress-drag-drop": "^1.6.0",
     "cypress": "^6.8.0"
   }
 }
